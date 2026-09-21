@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://best-ai-humanizer.github.io/sitemap.xml
